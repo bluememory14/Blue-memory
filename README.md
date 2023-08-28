@@ -1,4 +1,4 @@
 # Blue-memory
-memory is blue
+Memory is blue
 
 i am not bot, sorry.
